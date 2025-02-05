@@ -1,0 +1,38 @@
+{
+  "id": "d500230e-c22e-4740-9b36-d126f3c2b000",
+  "name": "DynamoFitnessDevelopments",
+  "publisher": "Shaligram Infotech",
+  "version": "1.0.0.0",
+  "runtime": "13.0",
+  "target": "Cloud",
+  "application": "24.0.0.0",
+  "platform": "24.0.22214.0",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true,
+    "applyToDevExtension": false
+  },
+  "features": [
+    "NOIMPLICITWITH"
+  ],
+  "dependencies": [
+    {
+      "id": "ec255f57-31d0-4ca2-b751-f2fa7c745abb",
+      "name": "Shopify Connector",
+      "version": "24.2.20227.21800",
+      "publisher": "Microsoft"
+    }
+  ],
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "build": {
+    "by": "AL Language Extension,13.1.1065068",
+    "timestamp": "2024-07-31T07:05:27.0941209+00:00",
+    "compilerVersion": "13.1.16.16524"
+  }
+}

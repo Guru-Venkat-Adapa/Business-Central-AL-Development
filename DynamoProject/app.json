@@ -1,0 +1,45 @@
+{
+  "id": "32812966-492e-46f5-b234-49cc70cbff1a",
+  "name": "DynamoFitness",
+  "publisher": "Default Publisher",
+  "version": "2.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "name": "DynamoFitnessDevelopments",
+      "id": "d500230e-c22e-4740-9b36-d126f3c2b000",
+      "version": "1.0.0.0",
+      "publisher": "Shaligram Infotech"
+    },
+    {
+      "id": "ec255f57-31d0-4ca2-b751-f2fa7c745abb",
+      "name": "Shopify Connector",
+      "publisher": "Microsoft",
+      "version": "24.2.20227.21800"
+    }
+    ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50249
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

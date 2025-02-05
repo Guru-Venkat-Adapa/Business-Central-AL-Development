@@ -1,0 +1,417 @@
+{
+  "id": "792c160c-8a11-4b25-904c-ce74c41e25b6",
+  "name": "Designer_792c160c-8a11-4b25-904c-ce74c41e25b6",
+  "publisher": "Designer",
+  "version": "1.0.0.0",
+  "runtime": "13.0",
+  "target": "Cloud",
+  "platform": "24.0.22214.0",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true,
+    "applyToDevExtension": false
+  },
+  "dependencies": [
+    {
+      "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "name": "System Application",
+      "version": "24.2.20227.22149",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "f3552374-a1f2-4356-848e-196002525837",
+      "name": "Business Foundation",
+      "version": "24.2.20227.22001",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "name": "Base Application",
+      "version": "24.2.20227.22149",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "c1335042-3002-4257-bf8a-75c898ccb1b8",
+      "name": "Application",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "e6328152-bb29-4664-9dae-3bc7eaae1fd8",
+      "name": "Email - Outlook REST API",
+      "version": "24.2.20227.20808",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "08d69832-9231-429e-be2c-8bab2c96905b",
+      "name": "Email - Current User Connector",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "10cb69d9-bc8a-4d27-970a-9e110e9db2a5",
+      "name": "_Exclude_APIV2_",
+      "version": "24.2.20227.22001",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "114e4e19-182b-42e2-b5a9-91d8b8ee8ce1",
+      "name": "_Exclude_Email Logging Using Graph API",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "16319982-4995-4fb1-8fb2-2b1e13773e3b",
+      "name": "AMC Banking 365 Fundamentals",
+      "version": "24.2.20227.20757",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "16c26bda-5f9c-4a77-a17e-4835f06062c0",
+      "name": "_Exclude_Connectivity Apps",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "2654d7e7-9afd-4947-9e02-6bb8f3e0cd04",
+      "name": "Universal Print Integration",
+      "version": "24.2.20227.22001",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "2a89f298-7ffd-44a5-a7ce-e08dac98abce",
+      "name": "Essential Business Headlines",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "58623bfa-0559-4bc2-ae1c-0979c29fd9e0",
+      "name": "Intelligent Cloud Base",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "334ef79e-547e-4631-8ba1-7a7f18e14de6",
+      "name": "Business Central Intelligent Cloud",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "3d5b2137-efeb-4014-8489-41d37f8fd4c3",
+      "name": "Late Payment Prediction",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "5a0b41e9-7a42-4123-d521-2265186cfb31",
+      "name": "Contoso Coffee Demo Dataset",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "4b0b41f9-7a13-4231-d521-2465186cfb32",
+      "name": "Contoso Coffee Demo Dataset (AU)",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "57623bfa-0559-4bc2-ae1c-0979c29fc8d1",
+      "name": "Business Central Cloud Migration API",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "5f92e0d5-a60e-435f-ae85-71ec28dd3e41",
+      "name": "_Exclude_PlanConfiguration_",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "63c9fbe6-d4f3-458c-8c25-644c90a0874a",
+      "name": "Bank Account Reconciliation With AI",
+      "version": "24.2.20227.22149",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "64977288-facd-4b48-aaaa-bb0e288edfb3",
+      "name": "Payment Practices",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "64c9d5e2-7744-4866-bc0e-5ebc2898e651",
+      "name": "Error Messages with Recommendations",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "672777d5-ab26-4369-b334-6f04256efffd",
+      "name": "_Exclude_Onboarding Signals",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "8fc50dfb-d338-4fd9-9499-5e44cc8cbf50",
+      "name": "Email - SMTP API",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "68e13fa3-217a-4be0-9141-99e5bf0ca818",
+      "name": "Email - SMTP Connector",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "6992416f-3f39-4d3c-8242-3fff61350bea",
+      "name": "Business Central Cloud Migration - Previous Release",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "6f2c034f-5ebe-4eae-b34c-90a0d4e87687",
+      "name": "_Exclude_Business_Events_",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "7819d79d-feea-4f09-bbed-5bbaca4bf323",
+      "name": "Data Archive",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "7961e9dc-a8e5-49b1-839b-3a78803a4cb8",
+      "name": "Troubleshoot FA Ledger Entries",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "79b1a79a-2f66-4736-bc1b-8abb3537eb51",
+      "name": "Simplified Bank Statement Import",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "7a129d06-5fd6-4fb6-b82b-0bf539c779d0",
+      "name": "_Exclude_Bank Deposits",
+      "version": "24.2.20227.21264",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "7c7d97ca-3598-40f5-b263-f713f49bd2a5",
+      "name": "Dynamics GP Historical Data",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "87990153-0e35-4e5d-ba61-2e93077d1699",
+      "name": "Review General Ledger Entries",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "8afe7b40-8c87-4beb-ada0-451d1761bf95",
+      "name": "_Exclude_APIV1_",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "8b3609cf-3947-44c3-9f20-ce6edc6da33f",
+      "name": "_Exclude_ClientAddIns_",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "8c972578-fe72-4aa5-ae51-cc5575fef2ea",
+      "name": "Send To Email Printer",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "a01864f8-9c3f-42f6-8328-8d7be1ce3e20",
+      "name": "_Exclude_Master_Data_Management",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "b3780cd9-f8f8-4a83-a4d5-0c2ad87b28af",
+      "name": "Sustainability",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "a0673989-48a4-48a0-9517-499c9f4037d3",
+      "name": "Sustainability Contoso Coffee Demo Dataset",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "a190e87b-2f59-4e14-a727-421877802768",
+      "name": "API - Cross Environment Intercompany",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "a2cc2ef8-949f-43d4-45b8-10bd6f8bc62c",
+      "name": "API Reports - Finance",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "a41b0c3e-bf1c-4c97-ad1b-b430a3933ada",
+      "name": "Audit File Export",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "a53a4bb0-aa53-8ff8-77d6-fe3388db0eb8",
+      "name": "Recommended Apps",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "ac14293f-1eb7-4a7b-9936-b280da31970b",
+      "name": "Data Search",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "aceb66c8-472e-437c-81d3-27e6c07d0f14",
+      "name": "Email - Microsoft 365 Connector",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "b0d9d29f-bcbc-4dd4-8a99-4bdbe8b7876c",
+      "name": "LS Express",
+      "version": "24.2.0.55",
+      "publisher": "LS Retail"
+    },
+    {
+      "id": "b7174aae-753c-4e71-bacb-d973995dce5e",
+      "name": "_Exclude_ReportLayouts",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "bae453ed-0fd8-4416-afdc-4b09db6c12c3",
+      "name": "WorldPay Payments Standard",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "c512d720-63b9-4b26-b062-a0c09b4ed322",
+      "name": "Company Hub",
+      "version": "24.2.20227.22001",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "c526b3e9-b8ca-4683-81ba-fcd5f6b1472a",
+      "name": "Sales and Inventory Forecast",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "cc11c22e-5ca3-423f-8804-88cac6d91983",
+      "name": "Dynamics BC Excel Reports",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "d09fa965-9a2a-424d-b704-69f3b54ed0ce",
+      "name": "Payment Links to PayPal",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "e1d97edc-c239-46b4-8d84-6368bdf67c8b",
+      "name": "E-Document Core",
+      "version": "24.2.20227.22149",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "d852a468-263e-49e5-bfda-f09e33342b89",
+      "name": "E-Documents Connector with External Endpoints",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "dd3f226b-40bf-4b3c-9988-9b1e0f74edd8",
+      "name": "Sales Lines Suggestions",
+      "version": "24.2.20227.22149",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "de0dddf3-9917-430d-8d20-6e7679a08500",
+      "name": "E-Document Core Demo Data",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "e2ae191d-8829-44c3-a373-3749a2742d4e",
+      "name": "Enforced Digital Vouchers",
+      "version": "24.2.20227.22001",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "e86e9234-8b95-459d-a9ba-4d901208ca38",
+      "name": "_Exclude_Microsoft Dynamics 365 - SmartList",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "e97bbbc7-16b6-470b-9428-376baa778970",
+      "name": "Send remittance advice by email",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "ea130081-c669-460f-a5f4-5dde14f03131",
+      "name": "Statistical Accounts",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "ec255f57-31d0-4ca2-b751-f2fa7c745abb",
+      "name": "Shopify Connector",
+      "version": "24.2.20227.22001",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "fc195c4f-19bf-4167-bfe8-6d1ff7d266bc",
+      "name": "Anveo EDI Connect",
+      "version": "5.3.0.15",
+      "publisher": "conion media GmbH"
+    },
+    {
+      "id": "feeb3504-556e-4790-b28d-a2b9ce302d81",
+      "name": "Dynamics GP Intelligent Cloud",
+      "version": "24.2.20227.20579",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "792c160c-8a11-4b25-904c-ce74c41e25b6",
+      "name": "Designer_792c160c-8a11-4b25-904c-ce74c41e25b6",
+      "version": "1.0.0.0",
+      "publisher": "Designer"
+    },
+    {
+      "id": "d500230e-c22e-4740-9b36-d126f3c2b000",
+      "name": "DynamoFitnessDevelopments",
+      "version": "1.0.0.0",
+      "publisher": "Shaligram Infotech"
+    }
+  ],
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99000
+    }
+  ],
+  "build": {
+    "timestamp": "2024-07-05T13:23:59.9319501+00:00",
+    "compilerVersion": "13.1.16.16524"
+  }
+}

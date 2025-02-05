@@ -1,0 +1,39 @@
+{
+    "id": "b2b86960-dfc6-47ca-ac4f-85802a4daea6",
+    "name": "Al Project 24.1",
+    "version": "1.0.0.0",
+    "publisher": "GURU",
+    "brief": "",
+    "description": "",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [
+        {
+            "id": "23DE40A6-DFE8-4F80-80DB-D70F83CE8CAF",
+            "name": "Test Runner",
+            "publisher": "Microsoft",
+            "version": "24.0.16410.18056"
+        }
+    ],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "24.0.0.0",
+    "idRanges": [
+        {
+            "from": 50100,
+            "to": 50149
+        }
+    ],
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": true,
+        "includeSourceInSymbolFile": true
+    },
+    "runtime": "13.0",
+    "features": [
+        "NoImplicitWith"
+    ]
+}

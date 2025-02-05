@@ -1,0 +1,20 @@
+// {
+//     "version": "0.2.0",
+//     "configurations": [
+//         {
+//             "name": "Microsoft cloud sandbox",
+//             "request": "launch",
+//             "type": "al",
+//             "environmentType": "Sandbox",
+//             "environmentName": "EG_PRODCOPY_271123",
+//             "startupObjectId": 22,
+//             "startupObjectType": "Page",
+//             "breakOnError": "All",
+//             "launchBrowser": true,
+//             "enableLongRunningSqlStatements": true,
+//             "enableSqlInformationDebugger": true,
+//             "schemaUpdateMode": "ForceSync",
+//             "tenant": "03e1fada-3b26-436a-8f38-f304438b90cb"
+//         }
+//     ]
+// }

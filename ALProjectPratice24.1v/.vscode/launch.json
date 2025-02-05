@@ -1,0 +1,43 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Your own server",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "OnPrem",
+            "server": "http://localhost:8080/BC240UKNEW/",
+            "serverInstance": "BC240UKNEW",
+            "authentication": "Windows",
+            "startupObjectId": 22,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "usePublicURLFromServer": true,
+            "schemaUpdateMode": "ForceSync"
+        },
+        {
+            "name": "AL: Generated Download Symbols request",
+            "request": "launch",
+            "type": "al",
+            "server": "http://SITPC0392.sit.local",
+            "serverInstance": "BC240UKNEW",
+            "authentication": "Windows",
+            "port": 7049
+        },
+        {
+            "name": "AL: Generated Attach request",
+            "request": "attach",
+            "type": "al",
+            "server": "http://SITPC0392.sit.local",
+            "serverInstance": "BC240UKNEW",
+            "authentication": "Windows",
+            "port": 7049,
+            "sessionId": 845,
+            "breakOnNext": "WebClient",
+            "breakOnError": "ExcludeTry"
+        }
+    ]
+}

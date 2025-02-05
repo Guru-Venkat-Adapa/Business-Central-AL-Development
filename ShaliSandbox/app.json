@@ -1,0 +1,39 @@
+{
+    "id": "a7802298-cac9-4312-a0ac-05a7ab46ebf6",
+    "name": "ShaliSandbox",
+    "publisher": "Shaligram Custom Publisher",
+    "version": "1.0.0.0",
+    "brief": "",
+    "description": "",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [
+        {
+            "id": "91445282-543F-41E8-825C-A1186639BB82",
+            "name": "WooCommerce Connector",
+            "publisher": "Synfynal",
+            "version": "24.0.2164.0"
+        }
+    ],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "24.0.0.0",
+    "idRanges": [
+        {
+            "from": 50100,
+            "to": 50149
+        }
+    ],
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": true,
+        "includeSourceInSymbolFile": true
+    },
+    "runtime": "13.0",
+    "features": [
+        "NoImplicitWith"
+    ]
+}

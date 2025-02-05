@@ -1,0 +1,10 @@
+{
+    // "al.codeAnalyzers": [
+    //     //"${UICop}",
+    //     "${CodeCop}"
+    //     //"${PerTenantExtensionCop}"
+    // ],
+    // "al.enableCodeAnalysis": true,
+    // "al.codeAnalyzers": ["${CodeCop}"],
+    // "al.enableCodeAnalysis": true
+}
