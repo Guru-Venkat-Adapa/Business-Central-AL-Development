@@ -1,0 +1,90 @@
+{
+    "id": "7b00c97c-e807-40d5-8f5c-074be3e043b7",
+    "name": "Navsoft ToshvinBC App",
+    "publisher": "NavSoft",
+    "version": "26.0.0.5",
+    "description": "This module contains customizations for TOSHVIN ANALYTICAL PVT. LTD., designed and developed by NavSoft.",
+    "dependencies": [
+        {
+      "id": "eae5779e-7797-4c4c-977e-7516652b7a65",
+      "name": "India TDS",
+      "version": "28.0.46665.50282",
+      "publisher": "Microsoft"
+   },
+   {
+       "id": "eddcf82e-482c-49d1-836b-ad0284f2c5b0",
+       "name": "India TCS",
+       "version": "28.0.46665.48257",
+       "publisher": "Microsoft"
+    }
+    ,
+   {
+       "id": "db643212-b7fb-4dd4-b5a8-cb44ac714461",
+       "name": "India GST",
+       "version": "28.0.46665.50282",
+       "publisher": "Microsoft"
+    }
+    ,
+   {
+       "id": "d3c551dd-5903-4194-b153-04ced9d29a2c",
+       "name": "India Tax Base",
+       "version": "28.0.46665.49944",
+       "publisher": "Microsoft"
+    }
+    ,
+   {
+       "id": "c1eafb3f-e397-468e-bdb4-ecc5c317ca00",
+       "name": "Tax Engine",
+       "version": "28.0.46665.48632",
+       "publisher": "Microsoft"
+    },
+    {
+      "id": "f1d9b696-156b-4251-b542-34e549fa80e9",
+      "name": "India Voucher Interface",
+      "version": "28.0.46665.48257",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "b3780cd9-f8f8-4a83-a4d5-0c2ad87b28af",
+      "name": "Sustainability",
+      "version": "28.0.46665.48257",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "07729019-da51-4639-a987-3db38ccc62c7",
+      "name": "India Charge Group",
+      "publisher": "Microsoft",
+      "version": "28.0.46665.48257"
+    },  
+    {
+      "id": "2dc39818-e0f0-42b6-99eb-ba29dc5f4102",
+      "name": "India Gate Entry",
+      "version": "28.0.46665.48257",
+      "publisher": "Microsoft"
+    },
+    {
+        "id": "dd3f226b-40bf-4b3c-9988-9b1e0f74edd8",
+        "name": "Sales Lines Suggestions",
+        "publisher": "Microsoft",
+        "version": "28.0.46665.48257"
+    }
+    ],
+    "screenshots": [],
+    "application": "28.0.0.0",
+    "platform": "1.0.0.0",
+    "idRanges": [
+        {
+            "from": 50000,
+            "to": 99999
+        }
+    ],
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": false,
+        "includeSourceInSymbolFile": true
+    },
+    "runtime": "17.0",
+    "features": [
+        "NoImplicitWith"
+    ]
+}
